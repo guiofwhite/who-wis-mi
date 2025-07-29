@@ -7,5 +7,9 @@
     font-style: normal;
     margin: 0 auto;
     text-align: center;
-    border-style: none;
+}
+
+*{
+    border: 0;
+    padding: 0;
 }
