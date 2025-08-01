@@ -9,12 +9,17 @@
     text-align: center;
 }
 
-body{
+body {
     background-image: url(https://img.elo7.com.br/product/zoom/28B2A01/fundo-fotografico-em-tecido-textura-cinza-2-80x1-50-cenarios-cenograficos.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-.texto{
+.texto {
     color: white;
+    font-family: "Intel One Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+
 }
