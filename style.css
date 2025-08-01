@@ -34,3 +34,12 @@ body {
     margin: 0 auto;
     text-align: center;
 }
+
+.texto2{
+    color: white;
+    font-family: "Intel One Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+    text-align: center;
+}
